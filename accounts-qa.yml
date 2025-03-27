@@ -1,0 +1,12 @@
+build:
+  version: "2.0 QA"
+
+
+accounts:
+  message: "welcome to Dinesh Bank accounts related QA APIs"
+  contactDetails:
+    name: "Dinesh - QA Lead"
+    email: "dinesh@gmail.com"
+  onCallSupport:
+    - 123456789
+    - 098765432

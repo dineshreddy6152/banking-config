@@ -1,0 +1,15 @@
+
+
+
+
+build:
+  version: "3.0 default"
+
+accounts:
+  message: "welcome to Dinesh Bank accounts related local APIs"
+  contactDetails:
+    name: "Dinesh - Developer"
+    email: "dinesh@gmail.com"
+  onCallSupport:
+    - 123456789
+    - 098765432

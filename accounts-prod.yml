@@ -1,0 +1,11 @@
+build:
+  version: "1.0 prod"
+
+accounts:
+  message: "welcome to Dinesh Bank accounts related prod APIs"
+  contactDetails:
+    name: "Dinesh - Prod Manager"
+    email: "dinesh@gmail.com"
+  onCallSupport:
+    - 123456789
+    - 098765432
