@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "welcome to Dinesh Bank accounts related QA APIs"
+  message: "welcome to Dinesh Bank accounts related QA V1 APIs"
   contactDetails:
     name: "Dinesh - QA Lead"
     email: "dinesh@gmail.com"
