@@ -6,7 +6,7 @@ build:
   version: "3.0 default"
 
 accounts:
-  message: "welcome to Dinesh Bank accounts related local APIs"
+  message: "welcome to Dinesh Bank accounts related local APIs 2.0"
   contactDetails:
     name: "Dinesh - Developer"
     email: "dinesh@gmail.com"
